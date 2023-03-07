@@ -3,3 +3,6 @@ click
 pylint
 pytest-cov
 black
+numpy
+pandas
+scipy
